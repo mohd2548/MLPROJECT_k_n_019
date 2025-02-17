@@ -1,0 +1,10 @@
+pandas
+numpy 
+seaborn
+-e . 
+'''
+it will enable setup.py to build the packages when 
+i try to isntall requirements.txt,this will automatically
+trigger setup.py to build the packages.
+
+'''
